@@ -1,0 +1,13 @@
+*.o
+*.out
+*.ll
+
+*.output
+
+mycc
+
+include/gram.h
+src/gram.cc
+src/lex.cc
+
+.vscode
